@@ -1,1 +1,1 @@
-EADME file
+readme file
